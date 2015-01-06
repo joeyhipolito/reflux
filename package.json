@@ -1,0 +1,29 @@
+{
+  "name": "reflux",
+  "author": "Jose Marcelius S. Hipolito <hi@joeyhipolito.me>",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Development boilerplate for ReactJS applications following Facebook's Flux architecture",
+  "devDependencies": {
+    "browserify": "^8.0.3",
+    "grunt": "^0.4.5",
+    "grunt-autoprefixer": "^2.1.0",
+    "grunt-bower": "^0.16.1",
+    "grunt-browserify": "^3.2.1",
+    "grunt-contrib-clean": "^0.6.0",
+    "grunt-contrib-coffee": "^0.12.0",
+    "grunt-contrib-concat": "^0.5.0",
+    "grunt-contrib-connect": "^0.8.0",
+    "grunt-contrib-copy": "^0.7.0",
+    "grunt-contrib-cssmin": "^0.10.0",
+    "grunt-contrib-sass": "^0.8.1",
+    "grunt-contrib-uglify": "^0.6.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sails-linker": "^0.9.5",
+    "grunt-sync": "^0.2.2",
+    "grunt-uncss": "^0.3.8",
+    "include-all": "^0.1.6",
+    "react": "^0.12.2",
+    "reactify": "^0.17.1"
+  }
+}
