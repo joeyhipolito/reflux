@@ -6,7 +6,7 @@ var App = React.createClass({
 
   render: function() {
     return (
-      <h1>Hello World from React</h1>
+      <h1>Hello World!</h1>
     );
   }
 
