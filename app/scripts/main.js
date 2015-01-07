@@ -1,4 +1,6 @@
-var React = require('../vendors/scripts/react');
-var App = require('./jsx');
+/** @jsx React.DOM */
 
-React.render(<App />, document.body);
+var React = require('react');
+var App = require('./components/app');
+
+React.render(<App />, document.getElementById('app'));

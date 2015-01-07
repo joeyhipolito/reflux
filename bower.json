@@ -1,6 +1,5 @@
 {
   "name": "reflux",
-  "description": "Development boilerplate for ReactJS applications following Facebook's Flux architecture",
   "version": "0.1.0",
   "homepage": "https://github.com/joeyhipolito/reflux",
   "authors": [
@@ -9,6 +8,5 @@
   "license": "MIT",
   "private": true,
   "dependencies": {
-    "react": "~0.12.2"
   }
 }
