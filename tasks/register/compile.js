@@ -5,6 +5,7 @@ module.exports = function (grunt) {
     'sass:dev',
     'coffee:dev',
     'copy:dev',
-    'browserify'
+    'browserify',
+    'autoprefixer'
   ]);
 };
