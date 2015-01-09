@@ -25,5 +25,10 @@
     "include-all": "^0.1.6",
     "react": "^0.12.2",
     "reactify": "^0.17.1"
+  },
+  "dependencies": {
+    "flux": "^2.0.1",
+    "react": "^0.12.2",
+    "underscore": "^1.7.0"
   }
 }
