@@ -17,9 +17,9 @@ module.exports = function(grunt) {
     dist: {
       files: [{
         expand: true,
-        cwd: '.tmp/tidy/',
+        cwd: '.tmp/styles/',
         src: '**/*.css',
-        dest: '.tmp/tidy/'
+        dest: '.tmp/styles/'
       }]
     }
   });

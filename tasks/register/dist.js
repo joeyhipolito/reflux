@@ -2,9 +2,8 @@ module.exports = function (grunt) {
   grunt.registerTask('dist', [
     'compile',
     'minify',
-    'autoprefixer',
-    'sails-linker:distStyles',
-    'sails-linker:distJs',
+    'linkAssetsDist',
+    'htmlmin',
     'clean:dist',
     'copy:dist'
   ]);
